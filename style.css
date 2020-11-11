@@ -1,0 +1,60 @@
+body{
+    background-position:center ; 
+    background-size: contain;
+ }
+ .heading{
+    background-color: crimson;
+    font-family: 'Raleway', sans-serif;
+     
+     width: 100%;
+   margin:0px;
+   font-size: xx-large; 
+   box-shadow: 7px 7px 10px black;
+   text-align: center;
+   background: transparent;
+ }
+ .heading2{
+  float: none;
+  font-size: larger;
+  background-color: white;
+  color: orange;
+  font-weight: 500;
+  border-radius: 20px;
+  box-shadow: 7px 7px 10px black;
+  padding: 10px;
+   float: none;
+   font-family: 'Raleway', sans-serif;
+ }
+ .Objects{
+    font-size: large;
+    font-family: 'Raleway', sans-serif;
+   
+ }
+ .object_para{
+   
+    border-radius: 25px;
+    box-shadow: 7px 7px 10px black;
+  
+    font-size: x-large;
+    font-family: 'Raleway', sans-serif;
+ }
+ #footer{
+    background-color: black;
+    box-shadow: 7px 7px 10px black;
+    bottom: 0;
+   width: 100%;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-variant: small-caps;
+ line-height: 2;
+    position: fixed;
+    color: white;
+ }
+ Canvas{
+    background-color: transparent;
+    margin-top: 200px;
+    border-radius: 29px;
+    border: 3px solid black;
+    box-shadow: 7px 7px 10px gray;
+    
+ }
